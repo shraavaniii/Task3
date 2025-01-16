@@ -5,7 +5,7 @@
 **BATCH DURATION**: 25th Dec to 25th Jan  
 **MENTOR NAME**: NEELA SANTOSH  
 
-**Overview of the Project:**
+**OVERVIEW OF THE PROJECT:**
 1. Port Scanner:
 Functionality:
 - Scans a specified range of ports on a target IP address or domain to identify open ports.
